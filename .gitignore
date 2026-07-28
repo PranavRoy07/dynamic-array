@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+main
+memory_demo
+dll/main_dll
+bst/main_bst
+bank_system
+
+# Editor/OS clutter
+.vscode/
+*.dSYM/
+Thumbs.db
+.DS_Store
